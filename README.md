@@ -34,7 +34,7 @@ O treinamento é ministrado por dois profissionais experientes e apaixonados por
 
 Cada pasta guarda o desafio do dia específico. Exemplo:
 
-- `Desafio_x.js` → solução proposta com base no aprendizado do dia.
+- `Dia XX/Desafio_x.js` → solução proposta com base no aprendizado do dia.
 
 ---
 
