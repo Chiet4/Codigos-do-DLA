@@ -71,10 +71,10 @@ Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 | Tipo de commit     | Palavra-chave |
 |--------------------|:-------------:|
 | Commit inicial   | `init`        |
-| Novo desafio       | `feat`        |
+| Novo recurso       | `feat`        |
 | Correção de código | `fix`         |
 | Refatoração        | `refac`       |
-| Atualização do README | `docs`     |
+
 
 ---
 
