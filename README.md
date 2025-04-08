@@ -40,7 +40,7 @@ Cada pasta guarda o desafio do dia específico. Exemplo:
 
 ## 📘 Documentação e Referências
 
-Além dos desafios, você pode acompanhar os vídeos explicativos e lives no canal oficial dos instrutores no YouTube.
+Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 
 - Canal: [Código Fonte TV](https://www.youtube.com/c/CodigoFonteTV)
 - Dicas e atualizações no Instagram: [@gabrielfroes](https://www.instagram.com/gabrielfroes/) | [@vanessaweberfroes](https://www.instagram.com/vanessaweberfroes/)
