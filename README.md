@@ -32,11 +32,9 @@ O treinamento é ministrado por dois profissionais experientes e apaixonados por
 
 ## 📁 Organização do Repositório
 
-Cada pasta representa o desafio de um dia específico. Exemplo:
+Cada pasta guarda o desafio do dia específico. Exemplo:
 
-
-- `desafio.md` → enunciado do desafio.
-- `solucao.js` → solução proposta com base no aprendizado do dia.
+- `Desafio_x.js` → solução proposta com base no aprendizado do dia.
 
 ---
 
