@@ -7,7 +7,7 @@ function addCliente(nome, idade){
         nome: nome,
         idade: idade
     }
-    caixa1.push(pessoa)
+    caixa1[caixa1.length] = pessoa // forma manual de colocar elementos no array
 }
 
 function atenderCliente(){
