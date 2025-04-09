@@ -59,6 +59,7 @@ Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 | Dia 6 | Encaixotando Códigos com Funções e Procedimentos |
 | Dia 7 | Super Desafio: Dividir Problemas em Uma Solução |
 | Dia 8 | A Brincadeira Só Começa com Estrutura de Dados |
+| Dia 9 | Super Poderes na Manipulação de Arrays         |
 | ... | ... |
 | Dia 21 | Desafio Final | Consolidando todo o conteúdo |
 
@@ -74,7 +75,7 @@ Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 | Novo recurso       | `feat`        |
 | Correção de código | `fix`         |
 | Refatoração        | `refac`       |
-
+| Atualização README | `docs`        |
 
 ---
 
