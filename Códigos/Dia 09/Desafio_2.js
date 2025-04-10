@@ -1,6 +1,13 @@
 
+// função para simular slice
 function extrairPorcao(array, inicio =0, fim=array.length){
     let n_array = []
+
+    // caso o inicio seja negativo, ele convertido para o equivalente positivo
+    if(inicio < 0) inicio = array.length + inicio
+    // caso o fim seja negativo, ele convertido para o equivalente positivo
+    if(fim < 0) fim = array.length + fim  
+
     for(let i = inicio; i < fim; i++){
         n_array.push(array[i])
     }
