@@ -60,6 +60,7 @@ Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 | Dia 7 | Super Desafio: Dividir Problemas em Uma Solução |
 | Dia 8 | A Brincadeira Só Começa com Estrutura de Dados |
 | Dia 9 | Super Poderes na Manipulação de Arrays         |
+| Dia 10 | Como Empilhar Coisas te Ensina Sobre Estrutura de Dados |
 | ... | ... |
 | Dia 21 | Desafio Final | Consolidando todo o conteúdo |
 
@@ -71,7 +72,7 @@ Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 
 | Tipo de commit     | Palavra-chave |
 |--------------------|:-------------:|
-| Commit inicial   | `init`        |
+| Commit inicial     | `init`        |
 | Novo recurso       | `feat`        |
 | Correção de código | `fix`         |
 | Refatoração        | `refac`       |
