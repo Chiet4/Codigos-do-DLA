@@ -51,17 +51,18 @@ Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 
 | Dia | Descrição |
 |---- |----|
-| Dia 1 | A Lógica de Programação e Como Usamos Ela Todos os Dias |
-| Dia 2 | Tudo na Vida são Dados |
-| Dia 3 | Aprenda a Usar os Operadores |
-| Dia 4 | Tomando Decisões com Estrutura de Controle Condicional |
-| Dia 5 | Estrutura de Controle de Repetição (Loops) |
-| Dia 6 | Encaixotando Códigos com Funções e Procedimentos |
-| Dia 7 | Super Desafio: Dividir Problemas em Uma Solução |
-| Dia 8 | A Brincadeira Só Começa com Estrutura de Dados |
-| Dia 9 | Super Poderes na Manipulação de Arrays         |
-| Dia 10 | Como Empilhar Coisas te Ensina Sobre Estrutura de Dados |
-| ... | ... |
+| Dia 1  | A Lógica de Programação e Como Usamos Ela Todos os Dias   |
+| Dia 2  | Tudo na Vida são Dados                                    |
+| Dia 3  | Aprenda a Usar os Operadores                              |
+| Dia 4  | Tomando Decisões com Estrutura de Controle Condicional    |
+| Dia 5  | Estrutura de Controle de Repetição (Loops)                |
+| Dia 6  | Encaixotando Códigos com Funções e Procedimentos          |
+| Dia 7  | Super Desafio: Dividir Problemas em Uma Solução           |
+| Dia 8  | A Brincadeira Só Começa com Estrutura de Dados            |
+| Dia 9  | Super Poderes na Manipulação de Arrays                    |
+| Dia 10 | Como Empilhar Coisas te Ensina Sobre Estrutura de Dados   |
+| Dia 11 | Pilhas no Mundo Real                                      |
+| ...    | ... |
 | Dia 21 | Desafio Final | Consolidando todo o conteúdo |
 
 > *Esta tabela será atualizada conforme o andamento dos desafios.*
