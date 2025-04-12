@@ -62,8 +62,9 @@ Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 | Dia 9  | Super Poderes na Manipulação de Arrays                    |
 | Dia 10 | Como Empilhar Coisas te Ensina Sobre Estrutura de Dados   |
 | Dia 11 | Pilhas no Mundo Real                                      |
-| ...    | ... |
-| Dia 21 | Desafio Final | Consolidando todo o conteúdo |
+| Dia 12 | Filas do Mundo Real                                       |
+| ...    | ...                                                       |
+| Dia 21 | Desafio Final - Consolidando todo o conteúdo              |
 
 > *Esta tabela será atualizada conforme o andamento dos desafios.*
 
