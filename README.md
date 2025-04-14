@@ -72,7 +72,7 @@ Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 
 ---
 
-## ✨ Padrões que usamos
+## ✨ Padrões usados
 
 | Tipo de commit     | Palavra-chave |
 |--------------------|:-------------:|
