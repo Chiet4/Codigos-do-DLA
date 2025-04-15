@@ -65,6 +65,7 @@ Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 | Dia 12 | Filas do Mundo Real                                       |
 | Dia 13 | Desafios Desafiadores com Deques                          |
 | Dia 14 | Super Desafio de Estrutura de Dados                       |
+| Dia 15 | Lista Encadeada com Objeto Literal                        |
 | ...    | ...                                                       |
 | Dia 21 | Desafio Final - Consolidando todo o conteúdo              |
 
