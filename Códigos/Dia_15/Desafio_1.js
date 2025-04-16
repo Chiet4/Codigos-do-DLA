@@ -13,6 +13,18 @@ let listaEncadeada = {
     head: null,
     tamanho: 0,
 
+    insertFirst: function (elemento){
+        const novoNo = criarNo(elemento);
+
+        if(!this.head){
+            this.head = novoNo;
+        } else {
+            novoNo.next = this.head;
+            this.head = novoNo;
+        }
+        this.tamanho++
+        return elemento;
+    },  
     insertLast: function(elemento){
         let novoNo = criarNo(elemento)
         let atual
@@ -103,9 +115,10 @@ listaEncadeada.insertLast('vagão3')
 console.log(JSON.stringify(listaEncadeada, null,2))
 
 listaEncadeada.insertAt(1, 'novoVagao')
+listaEncadeada.insertFirst('Locomotiva')
 console.log(JSON.stringify(listaEncadeada, null,2))
 
-listaEncadeada.removeAt(0)
+listaEncadeada.removeAt(1)
 console.log(JSON.stringify(listaEncadeada, null,2))
 
 let result = listaEncadeada.indexOf('vagão3')
