@@ -68,6 +68,7 @@ Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 | Dia 15 | Lista Encadeada com Objeto Literal                        |
 | Dia 16 | Desafio da Playlist de Música                             |
 | Dia 17 | Ordenação: Organizando a Bagunça                          |
+| Dia 18 | Ordenando a Playlist de Música                            |
 | ...    | ...                                                       |
 | Dia 21 | Desafio Final - Consolidando todo o conteúdo              |
 
