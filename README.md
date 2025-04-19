@@ -69,6 +69,7 @@ Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 | Dia 16 | Desafio da Playlist de Música                             |
 | Dia 17 | Ordenação: Organizando a Bagunça                          |
 | Dia 18 | Ordenando a Playlist de Música                            |
+| Dia 19 | Recursão ("Inception" na Estrutura de Dados)              |
 | ...    | ...                                                       |
 | Dia 21 | Desafio Final - Consolidando todo o conteúdo              |
 
