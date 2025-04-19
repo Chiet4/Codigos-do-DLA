@@ -124,6 +124,7 @@ const playlist = {
             }
         }
     },
+    /*
     ordenarPorNome: function(){
         let n = this.musicas.length;
         for (let i = 0; i < n - 1; i++){
@@ -135,7 +136,26 @@ const playlist = {
                 }
             }
         }
-    },
+    }*/
+   // Usando bubble sort 
+   ordenarPorNome: function(){
+        let n = this.musicas.length;
+        let trocado;
+
+        do {
+            trocado = false;
+            for (let i = 0; i < n -1; i++){
+                if(this.musicas[i].nome > this.musicas[i+1].nome) {
+                    let temp = this.musicas[i];
+                    this.musicas[i] = this.musicas[i+1];
+                    this.musicas[i+1] = temp;
+                    trocado = true;
+                }
+            }
+        }while (trocado);
+
+        console.log("Playlist ordenada por nome.")
+   },
     ordenarPorReproducao: function(){
         let n = this.musicas.length;
         for (let i = 0; i < n - 1; i++){
@@ -149,6 +169,7 @@ const playlist = {
             this.musicas[i] = this.musicas[maxIndex];
             this.musicas[maxIndex] = temp;
         }
+        console.log("Playlist ordenada por números de reproduções.")
     }
     
 
