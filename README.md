@@ -43,7 +43,6 @@ Cada pasta guarda o desafio do dia específico. Exemplo:
 Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 
 - Canal: [Código Fonte TV](https://www.youtube.com/c/CodigoFonteTV)
-- Dicas e atualizações no Instagram: [@gabrielfroes](https://www.instagram.com/gabrielfroes/) | [@vanessaweberfroes](https://www.instagram.com/vanessaweberfroes/)
 
 ---
 
@@ -71,7 +70,6 @@ Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 | Dia 18 | Ordenando a Playlist de Música                            |
 | Dia 19 | Recursão ("Inception" na Estrutura de Dados)              |
 | Dia 20 | Buscar é a Mágica da Programação                          |
-| ...    | ...                                                       |
 | Dia 21 | Desafio Final - Consolidando todo o conteúdo              |
 
 > *Esta tabela será atualizada conforme o andamento dos desafios.*
