@@ -15,7 +15,6 @@ Durante **21 dias**, os participantes recebem diariamente um novo desafio com fo
 - Pilhas, filas e listas
 - Algoritmos simples
 - Estrutura de dados 
-- E muito mais!
 
 ---
 
@@ -34,7 +33,7 @@ O treinamento é ministrado por dois profissionais experientes e apaixonados por
 
 Cada pasta guarda o desafio do dia específico. Exemplo:
 
-- `Dia XX/Desafio_x.js` → solução proposta com base no aprendizado do dia.
+- `Dia_XX/Desafio_x.js` → solução proposta com base no aprendizado do dia.
 
 ---
 
@@ -48,8 +47,8 @@ Você pode acompanhar e conhecer o canal oficial dos instrutores no YouTube.
 
 ## 📋 Desafios
 
-| Dia | Descrição |
-|---- |----|
+| Dia    |                   Descrição                               |
+|--------|-----------------------------------------------------------|
 | Dia 1  | A Lógica de Programação e Como Usamos Ela Todos os Dias   |
 | Dia 2  | Tudo na Vida são Dados                                    |
 | Dia 3  | Aprenda a Usar os Operadores                              |
